@@ -187,13 +187,13 @@
   "subdomains": null,
   "accent_color": "#e8e8e8",
   "main_background": "#040503",
-  "secondary_background": "#151419",
-  "button_background": "#493263",
+  "secondary_background": "#390000",
+  "button_background": "#2c556e",
   "button_text_color": "#ffffff",
   "text_color": "#ffffff",
   "color_highlight_text": "#efeae3",
   "color_main_btn_text": "#ffffff",
-  "cta_background": "#493263",
+  "cta_background": "#2c556e",
   "logo": {
     "url": "/uploads/7964df77c5e2de9a9e464c3880cc16c6.webp",
     "alt": "lucky tony logo"
@@ -387,9 +387,9 @@
       "question": "Czy Lucky Tony Casino oferuje bezpłatną wersję gier?"
     }
   ],
-  "_generated_at": "2026-10-05T12:11:40.177Z",
+  "_generated_at": "2026-10-05T12:14:49.274Z",
   "_version": "1.0.0",
   "content_alt": "lucky tony bonus",
-  "_last_deploy": "2026-10-05T12:11:40.750Z",
-  "_deploy_trigger": "43uc3u"
+  "_last_deploy": "2026-10-05T12:14:49.833Z",
+  "_deploy_trigger": "ght2dw"
 }
